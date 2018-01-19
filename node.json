@@ -14,12 +14,12 @@
         "ui_width": 4,
         "name": "font",
         "type": "font",
-        "default": "silkscreen.ttf"
+        "default": "Sansation_Regular.ttf"
     }, {
         "title": "Stop",
         "ui_width": 4,
         "name": "stop",
         "type": "string",
-        "default": "de:8212:65"
+        "default": "de:8212:7"
     }]
 }
